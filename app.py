@@ -2,7 +2,6 @@ from flask import *
 import pandas as pd
 import sqlite3
 import os
-import openai
 from werkzeug.utils import secure_filename
 from sqlConnectionClass import Columns
 from flask_cors import CORS, cross_origin

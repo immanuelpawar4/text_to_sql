@@ -1,0 +1,12 @@
+[2023-04-25 15:21:17,142] 224 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.196.106:5000
+[2023-04-25 15:21:17,142] 224 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2023-04-25 15:21:17,144] 224 werkzeug - INFO -  * Restarting with stat
+[2023-04-25 15:21:17,518] 224 werkzeug - WARNING -  * Debugger is active!
+[2023-04-25 15:21:17,522] 224 werkzeug - INFO -  * Debugger PIN: 688-340-003
+[2023-04-25 15:21:36,372] 362 flask_cors.core - WARNING - Unknown option passed to Flask-CORS: origin
+[2023-04-25 15:21:36,372] 362 flask_cors.core - WARNING - Unknown option passed to Flask-CORS: headers
+[2023-04-25 15:21:36,385] 224 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2023 15:21:36] "GET / HTTP/1.1" 200 -
+[2023-04-25 15:21:36,567] 224 werkzeug - INFO - 127.0.0.1 - - [25/Apr/2023 15:21:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
